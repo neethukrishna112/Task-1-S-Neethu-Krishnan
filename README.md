@@ -20,6 +20,19 @@ This project is a simple Rule-Based Chatbot developed using Python, HTML, CSS, a
 - templates/ - HTML files
 - static/ - CSS, JavaScript, and images
 
+## Project Screenshots
+
+Below are some sample outputs of the chatbot system:
+
+### Interface
+![Screenshot 1](screenshots/screenshot1.png)
+
+### Conversation Example1
+![Screenshot 2](screenshots/screenshot2.png)
+
+### Conversation Example2
+![Screenshot 3](screenshots/screenshot3.png)
+
 ## How to Run
 1. Install Python on your system.
 2. Open the project folder.
