@@ -1,4 +1,4 @@
-# Rule-Based Chatbot
+# BASICBOT - Rule-Based Chatbot System
 
 ## Project Description
 This project is a simple Rule-Based Chatbot developed using Python, HTML, CSS, and JavaScript. The chatbot responds to user queries based on predefined rules and patterns.
@@ -16,7 +16,7 @@ This project is a simple Rule-Based Chatbot developed using Python, HTML, CSS, a
 - JavaScript
 
 ## Project Structure
-- chatbot.py - Backend chatbot logic
+- app.py - Flask backend chatbot logic
 - templates/ - HTML files
 - static/ - CSS, JavaScript, and images
 
@@ -36,7 +36,7 @@ Below are some sample outputs of the chatbot system:
 ## How to Run
 1. Install Python on your system.
 2. Open the project folder.
-3. Run chatbot.py.
+3. Run app.py.
 4. Open the application in your browser.
 
 ## Author

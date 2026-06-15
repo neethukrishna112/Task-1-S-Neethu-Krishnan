@@ -17,8 +17,8 @@ knowledge_base = {
 
     "how are you": "I am fine.",
     
-    "what is your name": "I am DecodeBot, a rule-based chatbot.",
-    "who are you": "I am DecodeBot, a rule-based chatbot.",
+    "what is your name": "I am BASICBOT, a rule-based chatbot.",
+    "who are you": "I am BASICBOT, a rule-based chatbot.",
 
     "/help": (
         "Available commands:- \n"
@@ -39,16 +39,16 @@ knowledge_base = {
     "goodbye": "Goodbye.",
     "quit": "Goodbye.",
 
-    "introduce yourself": "I am DecodeBot, a rule-based assistant built for internship project.",
+    "introduce yourself": "I am BASICBOT, a rule-based assistant.",
     "what can you do": "I can respond to commands, provide time, date, and basic information.",
     "features": "I support greetings, utilities like time and date, and basic responses.",
-    "developer": "Developed for DecodeLabs internship project.",
+    "developer": "Developed as a rule-based chatbot system.",
 
     "what is a chatbot": "A chatbot is a software application that simulates human conversation.",
     "how does chatbot work": "It processes user input and returns predefined responses.",
     "types of chatbot": "Rule-based and AI-based chatbots.",
     "rule based chatbot": "A chatbot that works using predefined rules.",
-    "ai chatbot": "A chatbot that uses machine learning and NLP."
+    "ai chatbot": "A chatbot that uses machine learning and natural language processing. BASICBOT is a rule-based chatbot."
 }
 
 
