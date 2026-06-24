@@ -7,7 +7,7 @@ function sendMessage() {
 
     let chatArea = document.getElementById("chatArea");
 
-    // USER MESSAGE (bubble style)
+    // USER MESSAGE
     let userDiv = document.createElement("div");
     userDiv.className = "message user";
     userDiv.innerText = message;
